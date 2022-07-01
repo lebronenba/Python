@@ -1,0 +1,71 @@
+Name: Apex Legends
+Date of release: 05.11.2020
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: AMD FX 4350 / Intel Core i3 6300
+   RAM: 6 GB
+   Video Card: AMD Radeon™ HD 7730 / NVIDIA GeForce® GT 640
+   Disk Space: 56 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Battlefield V
+Date of release: 09.11.2018
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: AMD FX-8350 / Intel Core i5 6600K
+   RAM: 8 GB
+   Video Card: NVIDIA GeForce® GTX 1050 / AMD Radeon™ RX 560
+   Disk Space: 50 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Call of Duty: Black Ops 4
+Date of release: 12.10.2018
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel® Core™ i3-4340 / AMD FX-6300
+  RAM: 8 GB
+  Video Card: NVIDIA® GeForce® GTX 660 2 GB / AMD Radeon™ HD 7850
+  Disk Space: 25 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: The Division 2
+Date of release: 15.03.2019
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel Core i5-2500K / AMD FX-6350
+  RAM: 8 GB
+  Video Card: NVIDIA GeForce GTX 1050 Ti / AMD Radeon R9 270
+  Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Doom Eternal
+Date of release: 20.03.2020
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel® Core™ i5 / AMD Ryzen 3
+  RAM: 8 GB
+  Video Card: NVIDIA® GeForce® GTX 1650 4 ГБ / AMD Radeon R9 280
+  Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Far Cry 5
+Date of release: 27.03.2018
+System requirements: 
+  OS: Windows 7/8/10 64-bit
+  CPU:  Intel® Core™ i3-4370 / i3-6100 / Pentium G4600 / AMD FX-6300
+  RAM: 8 GB
+  Video Card : NVIDIA® GeForce® GTX 1050 Ti 4GB / AMD Radeon R9 270
+  Disk Space : 40 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Far Cry 6
+Date of release: 07.10.2021
+System requirements :
+  OS: Windows 10
+  CPU: AMD Ryzen 3 1200
+  RAM: 8 GB
+  Video Card : AMD RX 460 4 GB / NVIDIA GeForce GTX 960 4 GB
+  Disk Space : 60 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Counter-Strike: Global Offemsive
+Date of release:
+System requirements:
+  OS: Windows® 7/Vista/XP
+  CPU: Intel® Core™2 Duo Processor E6600 / AMD Phenom™ X3 8750
+  RAM: 2 GB
+  Video Card: Any video card with 256 MB of VRAM or higher.
+  Disk Space: 15 GB

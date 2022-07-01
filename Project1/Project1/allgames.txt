@@ -1,0 +1,211 @@
+Name: LIMBO
+Category: Platformer
+Date of realease: 21.07.2010
+   OS: 64-bit Windows XP/7
+   CPU: 2Ghz
+   RAM: 512 MB
+   Video Card: 10 years or younger. Shader Model 3.0 required
+   Disk Space: 150 MB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Minecraft
+Category: Survival
+Date of release: 18.11.2011
+System requirements:
+   OS: 64-bit Windows XP
+   CPU: Intel Pentium 4 / AMD Athlon XP 2200+
+   RAM: 1 GB
+   Video Card: Nvidia GeForce 8600 / ATI Radeon HD 2600
+   Disk Space: 1 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Counter-Strike: Global Offemsive
+Category: Shooter
+Date of release:
+System requirements:
+  OS: Windows® 7/Vista/XP
+  CPU: Intel® Core™2 Duo Processor E6600 / AMD Phenom™ X3 8750
+  RAM: 2 GB
+  Video Card: Any video card with 256 MB of VRAM or higher.
+  Disk Space: 15 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Apex Legends
+Category: Shooter
+Date of release: 05.11.2020
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: AMD FX 4350 / Intel Core i3 6300
+   RAM: 6 GB
+   Video Card: AMD Radeon™ HD 7730 / NVIDIA GeForce® GT 640
+   Disk Space: 56 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Injustice™ 2
+Category: Fighting
+Date of realease: 01.12.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-750 / AMD Phenom II X4 965
+   RAM: 4 GB
+   Video Card: NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950
+   Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Far Cry 6
+Category: Shooter
+Date of release: 07.10.2021
+System requirements :
+  OS: Windows 10
+  CPU: AMD Ryzen 3 1200
+  RAM: 8 GB
+  Video Card : AMD RX 460 4 GB / NVIDIA GeForce GTX 960 4 GB
+  Disk Space : 60 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Rust
+Category: Survival
+Date of release: 11.12.2013
+System requirements:
+   OS: 64-bit Windows 11
+   CPU: Intel Core i7-4790K / AMD Ryzen 5 1600
+   RAM: 16 GB
+   Video Card: GTX 980 / AMD R9 Fury 
+   Disk Space: 25 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: The Division 2
+Category: Shooter
+Date of release: 15.03.2019
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel Core i5-2500K / AMD FX-6350
+  RAM: 8 GB
+  Video Card: NVIDIA GeForce GTX 1050 Ti / AMD Radeon R9 270
+  Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: HOLLOW KNIGHT
+Category: Platformer
+Date of realease: 24.02.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core 2 Duo E5200
+   RAM: 4 GB
+   Video Card: GeForce 9800GTX+
+   Disk Space: 9 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Doom Eternal
+Category: Shooter
+Date of release: 20.03.2020
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel® Core™ i5 / AMD Ryzen 3
+  RAM: 8 GB
+  Video Card: NVIDIA® GeForce® GTX 1650 4 ГБ / AMD Radeon R9 280
+  Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: TEKKEN 7
+Category: Fighting
+Date of realease: 02.06.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core i3-4160
+   RAM: 6 GB
+   Video Card: NVIDIA GeForce GTX 660 2GB
+   Disk Space: 60 GB
+-----------------------------------------------------------------------------------------------------------------------------
+Name: Call of Duty: Black Ops 4
+Category: Shooter
+Date of release: 12.10.2018
+System requirements:
+  OS: 64-bit Windows 7
+  CPU: Intel® Core™ i3-4340 / AMD FX-6300
+  RAM: 8 GB
+  Video Card: NVIDIA® GeForce® GTX 660 2 GB / AMD Radeon™ HD 7850
+  Disk Space: 25 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: LITTLE NIGHTMARES 2
+Category: Platformer
+Date of realease: 10.02.2021
+   OS: 64-bit Windows 10
+   CPU: Intel Core i5-2300 / AMD FX-4350
+   RAM: 4 GB
+   Video Card: Nvidia GeForce GTX 570 / AMD Radeon HD 7850
+   Disk Space: 10 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Mortal Kombat 11
+Category: Fighting
+Date of realease: 23.04.2019
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-750 / AMD Phenom II X4 965
+   RAM: 8 GB
+   Video Card: NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950
+   Disk Space: 100 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: GANG BEASTS
+Category: Fighting
+Date of realease: 29.08.2014
+   OS: 64-bit Windows 7
+   CPU: Intel Core i3 / AMD A6
+   RAM: 4 GB
+   Video Card: Nvidia 8800 GT / AMD 5670 
+   Disk Space: 2 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Battlefield V
+Category: Shooter
+Date of release: 09.11.2018
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: AMD FX-8350 / Intel Core i5 6600K
+   RAM: 8 GB
+   Video Card: NVIDIA GeForce® GTX 1050 / AMD Radeon™ RX 560
+   Disk Space: 50 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: ARK: Survival Evolve
+Category: Survival
+Date of release: 02.06.2015
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-2400 / AMD FX-8320
+   RAM: 8 GB
+   Video Card: NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB
+   Disk Space: 60 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Mortal Kombat X
+Date of release: 14.04.2015
+System requirements:
+  OS: Windows Vista/7/8/10
+  CPU:  Intel Core i5-750 /| AMD Phenom II X4 965
+  RAM: 3 GB
+  Video Card: NVIDIA GeForce GTX 460 / AMD Radeon HD 5850
+  Disk Space: 36 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: SONIC MANIA
+Category: Platformer
+Date of realease: 15.08.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Pentium 4
+   Ram: 2 GB
+   Video Card: DirectX 9.0c compliant video card 256MB.
+   Disk Space: 400 MB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Stret Fighter V
+Category: Fighting
+Date of release : 16.02.2016
+System requirements :
+  OS: Windows 7/8 64-bit
+  CPU: Intel Core i3-4160 / AMD A10-7800
+  RAM: 6 GB
+  Video Card: Nvidia GeForce GTX 480 / AMD Radeon HD 5870
+  Disk Space : 20 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Far Cry 5
+Category: Shooter
+Date of release: 27.03.2018
+System requirements: 
+  OS: Windows 7/8/10 64-bit
+  CPU:  Intel® Core™ i3-4370 / i3-6100 / Pentium G4600 / AMD FX-6300
+  RAM: 8 GB
+  Video Card : NVIDIA® GeForce® GTX 1050 Ti 4GB / AMD Radeon R9 270
+  Disk Space : 40 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: WWE 2K15
+Category: Fighting
+Date of release : 28.10.2014
+System requirements :
+  OS: Windows Vista 64-bit
+  CPU: Intel Core Duo E6600 / AMD Athlon 64 X2 5400+
+  RAM: 4 GB
+  Video Card :  NVIDIA GeForce GTS 450 / AMD Radeon HD 5770
+  Disk Space : 22 GB

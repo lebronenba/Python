@@ -1,0 +1,59 @@
+Name: Mortal Kombat 11
+Date of realease: 23.04.2019
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-750 / AMD Phenom II X4 965
+   RAM: 8 GB
+   Video Card: NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950
+   Disk Space: 100 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Injustice™ 2
+Date of realease: 01.12.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-750 / AMD Phenom II X4 965
+   RAM: 4 GB
+   Video Card: NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950
+   Disk Space: 52 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: TEKKEN 7
+Date of realease: 02.06.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core i3-4160
+   RAM: 6 GB
+   Video Card: NVIDIA GeForce GTX 660 2GB
+   Disk Space: 60 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: GANG BEASTS
+Date of realease: 29.08.2014
+   OS: 64-bit Windows 7
+   CPU: Intel Core i3 / AMD A6
+   RAM: 4 GB
+   Video Card: Nvidia 8800 GT / AMD 5670 
+   Disk Space: 2 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: WWE 2K15
+Date of release : 28.10.2014
+System requirements :
+  OS: Windows Vista 64-bit
+  CPU: Intel Core Duo E6600 / AMD Athlon 64 X2 5400+
+  RAM: 4 GB
+  Video Card :  NVIDIA GeForce GTS 450 / AMD Radeon HD 5770
+  Disk Space : 22 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Stret Fighter V
+Date of release : 16.02.2016
+System requirements :
+  OS: Windows 7/8 64-bit
+  CPU: Intel Core i3-4160 / AMD A10-7800
+  RAM: 6 GB
+  Video Card: Nvidia GeForce GTX 480 / AMD Radeon HD 5870
+  Disk Space : 20 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Mortal Kombat X
+Date of release: 14.04.2015
+System requirements:
+  OS: Windows Vista/7/8/10
+  CPU:  Intel Core i5-750 /| AMD Phenom II X4 965
+  RAM: 3 GB
+  Video Card: NVIDIA GeForce GTX 460 / AMD Radeon HD 5850
+  Disk Space: 36 GB

@@ -1,0 +1,26 @@
+Name: Minecraft
+Date of release: 18.11.2011
+System requirements:
+   OS: 64-bit Windows XP
+   CPU: Intel Pentium 4 / AMD Athlon XP 2200+
+   RAM: 1 GB
+   Video Card: Nvidia GeForce 8600 / ATI Radeon HD 2600
+   Disk Space: 1 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: Rust
+Date of release: 11.12.2013
+System requirements:
+   OS: 64-bit Windows 11
+   CPU: Intel Core i7-4790K / AMD Ryzen 5 1600
+   RAM: 16 GB
+   Video Card: GTX 980 / AMD R9 Fury 
+   Disk Space: 25 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: ARK: Survival Evolve
+Date of release: 02.06.2015
+System requirements:
+   OS: 64-bit Windows 7
+   CPU: Intel Core i5-2400 / AMD FX-8320
+   RAM: 8 GB
+   Video Card: NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB
+   Disk Space: 60 GB

@@ -1,0 +1,31 @@
+Name: SONIC MANIA
+Date of realease: 15.08.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Pentium 4
+   Ram: 2 GB
+   Video Card: DirectX 9.0c compliant video card 256MB.
+   Disk Space: 400 MB
+------------------------------------------------------------------------------------------------------------------------------
+Name: LITTLE NIGHTMARES 2
+Date of realease: 10.02.2021
+   OS: 64-bit Windows 10
+   CPU: Intel Core i5-2300 / AMD FX-4350
+   RAM: 4 GB
+   Video Card: Nvidia GeForce GTX 570 / AMD Radeon HD 7850
+   Disk Space: 10 GB
+------------------------------------------------------------------------------------------------------------------------------
+Name: LIMBO
+Date of realease: 21.07.2010
+   OS: 64-bit Windows XP/7
+   CPU: 2Ghz
+   RAM: 512 MB
+   Video Card: 10 years or younger. Shader Model 3.0 required
+   Disk Space: 150 MB
+------------------------------------------------------------------------------------------------------------------------------
+Name: HOLLOW KNIGHT
+Date of realease: 24.02.2017
+   OS: 64-bit Windows 7
+   CPU: Intel Core 2 Duo E5200
+   RAM: 4 GB
+   Video Card: GeForce 9800GTX+
+   Disk Space: 9 GB
